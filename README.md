@@ -1,15 +1,13 @@
-Tayyip Gören
-
+# Tayyip Gören
 ## Personal Info
 
-Address: Turkey, Istanbul
-Telephone: [5515561341](tel:+905515561341)
-Email: [tayyipgoren@gmail.com](mailto:tayyipgoren@gmail.com)
-Website: [tayyipgoren.com.tr](https://tayyipgoren.com.tr/)
-Github: [github.com/7tg](https://github.com/7tg)
-LinkedIn: [linkedin.com/in/tayyipgoren](/usr/share/joplin-desktop/resources/app.asar/linkedin.com/in/tayyipgoren "linkedin.com/in/tayyipgoren")
-Medium: [medium.com/@tayyipgoren](/usr/share/joplin-desktop/resources/app.asar/medium.com/@tayyipgoren "medium.com/@tayyipgoren")
-Date Of Birth: 13 January 1999
+- Address: Turkey, Istanbul
+- Email: [tayyipgoren@gmail.com](mailto:tayyipgoren@gmail.com)
+- Website: [tayyipgoren.com.tr](https://tayyipgoren.com.tr/)
+- Github: [github.com/7tg](https://github.com/7tg)
+- LinkedIn: [linkedin.com/in/tayyipgoren](/usr/share/joplin-desktop/resources/app.asar/linkedin.com/in/tayyipgoren "linkedin.com/in/tayyipgoren")
+- Medium: [medium.com/@tayyipgoren](/usr/share/joplin-desktop/resources/app.asar/medium.com/@tayyipgoren "medium.com/@tayyipgoren")
+- Date Of Birth: 13 January 1999
 
 ## Education
 
@@ -24,7 +22,7 @@ Date Of Birth: 13 January 1999
 ### [Akinon](https://www.akinon.com/)
 
 - Software Engineer
-- Jan 2021 - Present (5 months +)
+- Jan 2021 - Present
 - Backend Python Django Developer
 
 ### [OBSS](https://obss.com.tr/)
